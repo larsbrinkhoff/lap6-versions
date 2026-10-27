@@ -1,0 +1,6 @@
+[submodule "lap6/lap6-tools"]
+	path = lap6-tools
+	url = https://github.com/PDP-12/lap6-tools
+[submodule "open-simh"]
+	path = open-simh
+	url = https://github.com/larsbrinkhoff/open-simh
